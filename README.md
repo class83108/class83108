@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello, I'm Eason Chuang
 
-<!--
-**class83108/class83108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 2+ years of experience in full-stack development, specializing in Django and modern web technologies. Currently focusing on React and cloud architecture.
 
-Here are some ideas to get you started:
+## 🛠 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend Development
+- **Python/Django**: Expert in Django ORM, Admin customization, and multi-tenant architecture using Django-tenant
+- **API Development**: Proficient in Django REST Framework (DRF), experienced with RBAC implementation
+- **Task Processing**: Experience with Celery for distributed task scheduling
+- **Databases**: 
+  - PostgreSQL (Primary database)
+  - Redis (Caching & session management)
+  - ELK Stack deployment experience with Docker
+
+### DevOps & Cloud
+- **Container Orchestration**: Certified Kubernetes Application Developer (CKAD)
+- **CI/CD**: Experience with Bitbucket pipelines
+- **Infrastructure**: Docker containerization and orchestration
+
+### Frontend Development
+- **Core Technologies**: Proficient in HTML5, CSS3, and JavaScript
+- **Responsive Design**: Experience in building responsive and mobile-first applications
+- **React**: Working knowledge of React hooks (useState, useEffect)
+- **Performance**: SEO optimization experience, focusing on Core Web Vitals (LCP, CLS)
+
+## 🚀 Current Focus
+- Advancing React skills and modern frontend architecture
+- Exploring cloud-native technologies and distributed systems
+- Deepening knowledge in system design and scalability
+
+## 🎓 Certifications
+- Certified Kubernetes Application Developer (CKAD)
+
+## 📫 How to reach me
+- class83108@gmail.com
